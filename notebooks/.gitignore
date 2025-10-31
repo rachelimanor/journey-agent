@@ -1,0 +1,8 @@
+
+# exports & cache
+data/exports/
+*.json
+*.md
+google-credentials.json
+.env
+
